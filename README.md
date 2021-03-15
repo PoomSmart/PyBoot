@@ -1,5 +1,5 @@
 # PyBoot
-Script for tether booting Checkm8 vulnerable iOS devices by Matty [(moski)](https://twitter.com/mosk_i)
+Script for tether booting Checkm8 vulnerable iOS devices by Matty [(moski)](https://twitter.com/moski_dev)
 
 ## DISCLAIMER
 
@@ -83,7 +83,7 @@ Options:
 
 ## Credits
 
-[Me](https://twitter.com/mosk_i) - For writing this whole thing :)
+[Me](https://twitter.com/moski_dev) - For writing this whole thing :)
 
 [axi0mX](https://twitter.com/axi0mX) - [ipwndfu/checkm8](https://github.com/axi0mX/ipwndfu)
 
@@ -109,4 +109,4 @@ libimobiledevice team - [irecovery](https://github.com/libimobiledevice/libireco
 
 [mcg29_](https://twitter.com/mcg29_) - amfi patching stuff
 
-[dora2ios](https://twitter.com/dora2ios) - [pwnedDFU (A7 checkm8)](https://github.com/dora2-iOS/iPwnder32/releases/tag/1.1)
+[dora2ios](https://twitter.com/dora2ios) - [iPwnder32 (A7 checkm8)](https://github.com/dora2-iOS/iPwnder32)
